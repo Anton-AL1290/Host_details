@@ -1,0 +1,1 @@
+En ciberseguridad, conocer el hostname y las direcciones IP de un equipo es parte del reconocimiento e inventario de activos, con este sencillo script de python podemos obtener el nombre de nuestro equipo y la IP que posee en estos momentos.
